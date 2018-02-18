@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements LoginView{
 
     @Override
     public void loginSuccess() {
-        Toast.makeText(this, "Login Succesfull", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Login Successful", Toast.LENGTH_SHORT).show();
     }
 
     @Override
